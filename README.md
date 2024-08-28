@@ -62,9 +62,6 @@ Here's an example of the output route visualization:
 - **Depot Location**: The `depot` is currently set to a fixed point `(50, 50)` but can be customized.
 - **Genetic Algorithm Parameters**: Parameters such as population size, crossover probability, and mutation probability can be adjusted for experimentation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -72,7 +69,7 @@ Contributions are welcome! If you have ideas to improve this project, feel free 
 
 ## Contact
 
-For any inquiries, please contact [Your Name] at [your.email@example.com].
+For any inquiries, please contact Rudransh Gupta at [rudransh3@gmail.com].
 ```
 
 ### Notes:
