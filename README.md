@@ -70,4 +70,3 @@ Contributions are welcome! If you have ideas to improve this project, feel free 
 ## Contact
 
 For any inquiries, please contact Rudransh Gupta at [rudransh3@gmail.com].
-```
