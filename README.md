@@ -71,8 +71,3 @@ Contributions are welcome! If you have ideas to improve this project, feel free 
 
 For any inquiries, please contact Rudransh Gupta at [rudransh3@gmail.com].
 ```
-
-### Notes:
-- Replace `[Your Name]` and `[your.email@example.com]` with your actual name and email.
-- If you include a pre-generated plot, save it as `example_route.png` in the repository, so it matches the reference in the `README.md`.
-- If you include a license file, ensure the `LICENSE` link is correct in the License section.
